@@ -1,0 +1,103 @@
+{
+  "name": "CMR Engineering College",
+  "website": "https://cmrec.ac.in/",
+  "fallback": "I couldn’t find that information.",
+  "fallback_replies": ["Placements", "Fees", "Rules", "Facilities"],
+
+  "about": {
+    "info": "CMR Engineering College (CMREC) is an autonomous institution accredited with NAAC ‘A’ Grade and affiliated with JNTU Hyderabad.",
+    "details": "Established in 2010, CMREC is approved by AICTE and offers UG and PG programs in multiple disciplines.",
+    "note": "🌐 Learn more: [https://cmrec.ac.in/](https://cmrec.ac.in/)"
+  },
+
+  "location": {
+    "info": "Located at Kandlakoya (V), Medchal Road, Hyderabad – 501401, Telangana, India.",
+    "note": "📍 Google Maps: [https://goo.gl/maps/2yL3fEtD8T2s4eMQ6](https://goo.gl/maps/2yL3fEtD8T2s4eMQ6)"
+  },
+
+  "fees": {
+    "info": "CMREC follows TSCHE guidelines for all programs.",
+    "details": {
+      "B.Tech (Convener Quota)": "₹1,30,000 per year",
+      "B.Tech (Management Quota)": "₹1,50,000 per year",
+      "M.Tech": "₹80,000 per year",
+      "MBA": "₹75,000 per year"
+    },
+    "note": "💡 Official Fee Page: [https://cmrec.ac.in/admissions/](https://cmrec.ac.in/admissions/)"
+  },
+
+  "placements": {
+    "info": "The Training & Placement Cell ensures 90%+ placements annually with top recruiters.",
+    "list": [
+      "Top Recruiters: TCS, Infosys, Wipro, HCL, Amazon, Deloitte",
+      "Highest Package: ₹14 LPA",
+      "Average Package: ₹4.2 LPA"
+    ],
+    "note": "🔗 Official Placement Page: [https://cmrec.ac.in/placement/](https://cmrec.ac.in/placement/)"
+  },
+
+  "facilities": {
+    "info": "CMREC provides world-class infrastructure for academics and activities.",
+    "list": [
+      "Digital Library with 30,000+ titles",
+      "Wi-Fi-enabled campus",
+      "Hostels for boys and girls",
+      "Sports Complex and Gym",
+      "Cafeteria and Food Court",
+      "Transport covering major city routes"
+    ],
+    "note": "🏫 Explore Facilities: [https://cmrec.ac.in/infrastructure/](https://cmrec.ac.in/infrastructure/)"
+  },
+
+  "rules": {
+    "info": "CMREC enforces a strict code of discipline, attendance, and academic conduct.",
+    "details": {
+      "Attendance": "Minimum 75% attendance required each semester.",
+      "Dress Code": "Formal attire from Monday to Friday. Casuals on Saturday only.",
+      "Behavior": "Respectful conduct towards staff and peers is mandatory.",
+      "Ragging Policy": "Ragging is strictly prohibited and punishable under law."
+    },
+    "note": "⚖️ Read our Code of Conduct: [https://cmrec.ac.in/](https://cmrec.ac.in/)"
+  },
+
+  "faculty": {
+    "info": "CMREC has highly qualified faculty from reputed universities and industries.",
+    "details": "Our faculty emphasizes mentoring, research, and experiential learning.",
+    "note": "👩‍🏫 View Faculty Profiles: [https://cmrec.ac.in/faculty/](https://cmrec.ac.in/faculty/)"
+  },
+
+  "events": {
+    "info": "CMREC organizes annual cultural and technical fests for students.",
+    "list": [
+      "Techno-CMR – National Technical Fest (October)",
+      "Resonance – Annual Cultural Fest (March)",
+      "Innovation Day – Startup Expo"
+    ],
+    "note": "🎉 Event Updates: [https://cmrec.ac.in/](https://cmrec.ac.in/)"
+  },
+
+  "contact": {
+    "info": "For official queries, contact the administrative office.",
+    "details": {
+      "Phone": "+91 9248727229 / +91 9248727231",
+      "Email": "principal@cmrec.ac.in",
+      "Website": "https://cmrec.ac.in/"
+    },
+    "note": "📞 Contact Page: [https://cmrec.ac.in/contact-us/](https://cmrec.ac.in/contact-us/)"
+  },
+
+  "timing": {
+    "info": "CMREC operates six days a week with a balanced schedule.",
+    "details": {
+      "Class Hours": "9:00 AM – 4:00 PM",
+      "Lunch Break": "12:30 PM – 1:15 PM",
+      "Office Hours": "9:00 AM – 5:00 PM"
+    },
+    "note": "Closed on Sundays and national holidays."
+  },
+
+  "transport": {
+    "info": "CMREC provides transportation from major parts of Hyderabad including Secunderabad, Kukatpally, and LB Nagar.",
+    "note": "🚌 Transport Info: [https://cmrec.ac.in/transport/](https://cmrec.ac.in/transport/)"
+  }
+}
