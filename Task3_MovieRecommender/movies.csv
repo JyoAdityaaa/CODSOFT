@@ -1,0 +1,101 @@
+movieId,title,genres
+1,Inception (2010),Sci-Fi|Thriller
+2,Interstellar (2014),Sci-Fi|Drama|Adventure
+3,The Dark Knight (2008),Action|Crime|Thriller
+4,Tenet (2020),Sci-Fi|Action
+5,The Prestige (2006),Drama|Mystery
+6,Avatar (2009),Action|Adventure|Sci-Fi
+7,Gravity (2013),Sci-Fi|Thriller|Drama
+8,Shutter Island (2010),Thriller|Mystery
+9,The Matrix (1999),Action|Sci-Fi
+10,Arrival (2016),Sci-Fi|Drama|Mystery
+11,Dune (2021),Sci-Fi|Adventure|Drama
+12,The Batman (2022),Action|Crime|Drama
+13,Iron Man (2008),Action|Sci-Fi|Adventure
+14,Avengers: Endgame (2019),Action|Adventure|Sci-Fi
+15,Avengers: Infinity War (2018),Action|Adventure|Sci-Fi
+16,Captain America: Civil War (2016),Action|Adventure
+17,Doctor Strange (2016),Fantasy|Action
+18,Guardians of the Galaxy (2014),Action|Comedy|Sci-Fi
+19,Thor: Ragnarok (2017),Fantasy|Action|Comedy
+20,Black Panther (2018),Action|Sci-Fi|Adventure
+21,The Lion King (2019),Animation|Adventure|Drama
+22,Frozen (2013),Animation|Family|Fantasy
+23,Toy Story (1995),Animation|Family|Comedy
+24,Finding Nemo (2003),Animation|Adventure
+25,Inside Out (2015),Animation|Family|Drama
+26,Coco (2017),Animation|Family|Fantasy
+27,Soul (2020),Animation|Drama|Family
+28,Up (2009),Animation|Adventure|Drama
+29,Ratatouille (2007),Animation|Family|Comedy
+30,WALL-E (2008),Animation|Sci-Fi|Family
+31,The Godfather (1972),Crime|Drama
+32,The Godfather Part II (1974),Crime|Drama
+33,Pulp Fiction (1994),Crime|Drama|Comedy
+34,Forrest Gump (1994),Drama|Romance
+35,The Shawshank Redemption (1994),Drama
+36,The Green Mile (1999),Drama|Fantasy
+37,Gladiator (2000),Action|Drama
+38,Braveheart (1995),Drama|War
+39,Schindler's List (1993),Drama|History
+40,The Pianist (2002),Drama|War
+41,La La Land (2016),Romance|Drama|Music
+42,Whiplash (2014),Drama|Music
+43,The Social Network (2010),Drama|Biography
+44,The Imitation Game (2014),Drama|History
+45,The Theory of Everything (2014),Drama|Romance
+46,The Pursuit of Happyness (2006),Drama|Biography
+47,Slumdog Millionaire (2008),Drama|Romance
+48,Life of Pi (2012),Adventure|Drama
+49,The Revenant (2015),Adventure|Drama
+50,Mad Max: Fury Road (2015),Action|Adventure
+51,Edge of Tomorrow (2014),Action|Sci-Fi
+52,Oblivion (2013),Sci-Fi|Action
+53,Looper (2012),Sci-Fi|Action
+54,Source Code (2011),Sci-Fi|Thriller
+55,Blade Runner 2049 (2017),Sci-Fi|Drama
+56,Her (2013),Romance|Sci-Fi|Drama
+57,Ex Machina (2014),Sci-Fi|Drama
+58,Ready Player One (2018),Sci-Fi|Adventure
+59,Minority Report (2002),Sci-Fi|Action
+60,War of the Worlds (2005),Sci-Fi|Thriller
+61,Jurassic Park (1993),Sci-Fi|Adventure
+62,The Lost World (1997),Sci-Fi|Adventure
+63,Jurassic World (2015),Sci-Fi|Adventure
+64,The Conjuring (2013),Horror|Thriller
+65,The Nun (2018),Horror|Mystery
+66,Insidious (2010),Horror|Mystery
+67,Get Out (2017),Horror|Thriller
+68,A Quiet Place (2018),Horror|Drama
+69,It (2017),Horror|Thriller
+70,The Ring (2002),Horror|Mystery
+71,Annabelle (2014),Horror|Thriller
+72,Parasite (2019),Thriller|Drama
+73,Train to Busan (2016),Horror|Action|Drama
+74,Memento (2000),Thriller|Mystery
+75,Se7en (1995),Thriller|Crime|Mystery
+76,Gone Girl (2014),Thriller|Drama|Mystery
+77,Zodiac (2007),Thriller|Crime|Drama
+78,Prisoners (2013),Thriller|Crime
+79,Nightcrawler (2014),Thriller|Crime|Drama
+80,No Country for Old Men (2007),Thriller|Crime
+81,John Wick (2014),Action|Thriller
+82,John Wick: Chapter 2 (2017),Action|Thriller
+83,John Wick: Chapter 3 (2019),Action|Thriller
+84,Mission Impossible (1996),Action|Adventure
+85,Mission Impossible: Fallout (2018),Action|Adventure
+86,Top Gun (1986),Action|Drama
+87,Top Gun: Maverick (2022),Action|Drama
+88,Fast & Furious (2009),Action|Crime
+89,Fast Five (2011),Action|Crime
+90,Furious 7 (2015),Action|Crime
+91,The Maze Runner (2014),Sci-Fi|Action
+92,The Hunger Games (2012),Sci-Fi|Adventure
+93,Divergent (2014),Sci-Fi|Action
+94,Lucy (2014),Sci-Fi|Action
+95,The Fault in Our Stars (2014),Romance|Drama
+96,A Star Is Born (2018),Drama|Music|Romance
+97,Titanic (1997),Drama|Romance
+98,Me Before You (2016),Romance|Drama
+99,The Notebook (2004),Romance|Drama
+100,Joker (2019),Crime|Drama|Thriller
