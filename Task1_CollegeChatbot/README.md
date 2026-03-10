@@ -1,5 +1,5 @@
 # 🚀 CODSOFT Tech Internship — Python Developer Track
-### 👨‍💻 Developer: **Jyothiraditya R**
+### 👨‍💻 Developer: **Jyothiradhithya M**
 ---
 
 ## 🧠 Overview
